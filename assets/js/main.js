@@ -26,10 +26,10 @@ document.addEventListener("DOMContentLoaded", function() {
 		}
 
 		if(videos[key].link !== "") {
-			category.innerHTML += '<div class="thumbnail-wrapper"><a target="_blank" href="' + link + '"><img class="thumbnail" src="./assets/img/placeholder.jpg" data-src="' + thumbnail + '"></a><span title="' + title + '">' + title + '</span><a target="_blank" href="https://archive.org/details/BDobbinsFTW-Archive/' + key + '.mp3"><button>MP3 Link</button></a></div>';
+			category.innerHTML += '<div class="thumbnail-wrapper"><a target="_blank" href="' + link + '"><img class="thumbnail" src="./assets/img/placeholder.jpg" data-src="' + thumbnail + '"></a><span title="' + title + '">' + title + '</span><a target="_blank" href="https://archive.org/details/BDobbinsFTW-Audio-Archive/' + key + '.mp3"><button>MP3 Link</button></a></div>';
 		}
 		else {
-			category.innerHTML += '<div class="thumbnail-wrapper"><img class="thumbnail" src="./assets/img/placeholder.jpg" data-src="' + thumbnail + '"><span title="' + title + '">' + title + '</span><a target="_blank" href="https://archive.org/details/BDobbinsFTW-Archive/' + key + '.mp3"><button>MP3 Link</button></a></div>';
+			category.innerHTML += '<div class="thumbnail-wrapper"><img class="thumbnail" src="./assets/img/placeholder.jpg" data-src="' + thumbnail + '"><span title="' + title + '">' + title + '</span><a target="_blank" href="https://archive.org/details/BDobbinsFTW-Audio-Archive/' + key + '.mp3"><button>MP3 Link</button></a></div>';
 		}
 
 		if(i === keys.length - 1) {
