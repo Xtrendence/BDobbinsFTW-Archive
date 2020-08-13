@@ -1,0 +1,32 @@
+@media screen and (max-width:1080px) {
+	.thumbnail-wrapper {
+		width:calc((100% / 3) - 20px);
+	}
+}
+@media screen and (max-width:760px) {
+	.thumbnail-wrapper {
+		width:calc(50% - 20px);
+	}
+}
+@media screen and (max-width:710px) {
+	.social-links-wrapper {
+		height:auto;
+	}
+	.social-links {
+		position:relative;
+		display:block;
+		margin-bottom:20px;
+		text-align:center;
+	}
+}
+@media screen and (max-width:480px) {
+	.thumbnail-wrapper {
+		width:calc(100% - 20px);
+	}
+}
+@media screen and (max-width:430px) {
+	.social-links svg {
+		width:32px;
+		height:32px;
+	}
+}
