@@ -1268,7 +1268,7 @@ let videos = {
 		"link":"JNEKGQQSRfo"
 	},
 	"317": {
-		"title":"The Legacy of Modern Warfare & Why Call of Duty is Still So Successful in 2020",
+		"title":"Why Modern Warfare and Warzone Were So Successful",
 		"link":"0pQohZh0LHM"
 	},
 	"U01": {
