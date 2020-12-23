@@ -1271,6 +1271,14 @@ let videos = {
 		"title":"Why Modern Warfare and Warzone Were So Successful",
 		"link":"0pQohZh0LHM"
 	},
+	"318": {
+		"title":"Holidays in Video Games Are Good, Rainbow Six Siege's Halloween Event is Not.",
+		"link":"okwZdOXAn-A"
+	},
+	"319": {
+		"title":"Why Everyone Is Quitting Their Job To Play Call of Duty",
+		"link":"tubXWOJfU5A"
+	},
 	"U01": {
 		"title":"Black Ops 4 Is Already Looking Shady",
 		"link":""
