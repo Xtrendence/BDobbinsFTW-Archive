@@ -1279,6 +1279,14 @@ let videos = {
 		"title":"Why Everyone Is Quitting Their Job To Play Call of Duty",
 		"link":"tubXWOJfU5A"
 	},
+	"320": {
+		"title":"Why Halo's Story is Still So Relevant 20 Years Later",
+		"link":"u7D6JLgZneU"
+	},
+	"321": {
+		"title":"Can Call of Duty Help Explain Our Dreams?",
+		"link":"ZlNye7uoKow"
+	},
 	"U01": {
 		"title":"Black Ops 4 Is Already Looking Shady",
 		"link":""
