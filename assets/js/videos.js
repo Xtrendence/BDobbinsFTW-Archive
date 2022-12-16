@@ -1287,6 +1287,10 @@ let videos = {
 		"title":"Can Call of Duty Help Explain Our Dreams?",
 		"link":"ZlNye7uoKow"
 	},
+	"322": {
+		"title":"How Economics Ruined Halo Infinite by Broadening Its Audience",
+		"link":"WwtSdqr60a8"
+	},
 	"U01": {
 		"title":"Black Ops 4 Is Already Looking Shady",
 		"link":""
